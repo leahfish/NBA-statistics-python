@@ -15,7 +15,7 @@ Primary variable of interest: **player salary**. Secondary variable: **birth ori
 
 ## Key findings
 
-- Salary is heavily right-skewed: mean (~$9.3M) is nearly triple the median (~$3.6M).
+- Salary is heavily right-skewed: mean (\~$9.3M) is nearly triple the median (\~$3.6M).
 - No statistically significant salary difference between US-born and international players (p = 0.55), despite the league remaining ~75% US-born (p = 0.0013) — international visibility hasn't translated into a measurable pay premium or discount.
 - Points and assists per game are the strongest predictors of salary (from our companion regression analysis, adjusted R² = 0.615).
 
